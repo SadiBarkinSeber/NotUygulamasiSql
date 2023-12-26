@@ -1,0 +1,7 @@
+![Ekran görüntüsü 2023-10-26 031724](https://github.com/SadiBarkinSeber/NotUygulamasiSql/assets/72513651/9fe44ad5-944f-41c5-bae9-e9bca5269a3d)
+![Ekran görüntüsü 2023-10-26 031848](https://github.com/SadiBarkinSeber/NotUygulamasiSql/assets/72513651/90d5b59f-6351-49ad-8dbe-0ab4a441475d)
+![Ekran görüntüsü 2023-10-26 031858](https://github.com/SadiBarkinSeber/NotUygulamasiSql/assets/72513651/18dfefd1-970e-4097-856f-3491a80868e1)
+![Ekran görüntüsü 2023-10-26 032003](https://github.com/SadiBarkinSeber/NotUygulamasiSql/assets/72513651/158f9993-9038-4b68-890d-f1e329e9d8b7)
+![Ekran görüntüsü 2023-10-26 032123](https://github.com/SadiBarkinSeber/NotUygulamasiSql/assets/72513651/26599550-5784-4a7b-af89-427c54077310)
+![Ekran görüntüsü 2023-10-26 032212](https://github.com/SadiBarkinSeber/NotUygulamasiSql/assets/72513651/0410ff97-108e-42d4-83b4-f0e152609d69)
+![Ekran görüntüsü 2023-10-26 032245](https://github.com/SadiBarkinSeber/NotUygulamasiSql/assets/72513651/cd79ab39-cbfe-4e6c-98ac-794f446b40ab)
